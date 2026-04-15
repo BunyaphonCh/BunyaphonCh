@@ -19,8 +19,3 @@ I am currently deep-diving into ai, cyber, web to expand my technical expertise 
 I'm always open to discussing projects or tech-related topics.
 * **Email:** [bunyaphon536@gmail.com]
 * **LinkedIn:** [[My profile](https://www.linkedin.com/in/%E0%B8%9A%E0%B8%B8%E0%B8%93%E0%B8%A2%E0%B8%B2%E0%B8%9E%E0%B8%A3-%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%A1%E0%B8%87%E0%B8%84%E0%B8%A5%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B9%8C-99289a274/)]
-
----
-
-
-![Views](https://komarev.com/ghpvc/?username=BunyaphonCh&color=blue&style=flat-square&label=VISITORS)
