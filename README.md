@@ -2,6 +2,9 @@
 
 I am a student currently studying at IT KMITL , focused on building side projects and exploring new technologies.
 
+> **Commit message of my life :**
+> `git commit -m "Leave the past, refactor the future."`
+
 ### 🚀 Currently Learning
 I am currently deep-diving into ai, cyber, web to expand my technical expertise and stay updated with industry trends.
 
