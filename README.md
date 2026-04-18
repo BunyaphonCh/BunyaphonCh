@@ -16,6 +16,12 @@ I am currently deep-diving into ai, cyber, web to expand my technical expertise 
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=BunyaphonCh&show_icons=true&theme=tokyonight" alt="Stats" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BunyaphonCh&layout=compact&theme=tokyonight" alt="Top Langs" height="180" />
+</p
+
 ---
 
 ### 📫 Connect with me
